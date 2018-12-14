@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaTema4</string>
+    <string name="imagenMenu">Menu image</string>
+    <string name="paises">Countries</string>
+    <string name="capitales">Capitals</string>
+    <string name="pais">Country</string>
+    <string name="capital">Capital</string>
+    <string name="verificar">Verify</string>
+    <string name="hello_blank_fragment">Helloblank fragment</string>
+    <string name="itemPais1">Spain</string>
+    <string name="itemPais2">Portugal</string>
+    <string name="itemPais3">France</string>
+    <string name="itemPais4">England</string>
+    <string name="itemPais5">Brazil</string>
+    <string name="itemPais6">Argentina</string>
+    <string name="itemPais7">Germany</string>
+    <string name="itemPais8">Sweden</string>
+    <string name="itemPais9">Russia</string>
+    <string name="itemPais10">EE.UU</string>
+    <string name="itemCapital1">Buenos Aires</string>
+    <string name="itemCapital2">Brasilia</string>
+    <string name="itemCapital3">Lisboa</string>
+    <string name="itemCapital4">Paris</string>
+    <string name="itemCapital5">Washington D.C.</string>
+    <string name="itemCapital6">Madrid</string>
+    <string name="itemCapital7">Berlin</string>
+    <string name="itemCapital8">London</string>
+    <string name="itemCapital9">Stockholm</string>
+    <string name="itemCapital10">Moscu</string>
+    <string name="btn1">CALCULATED</string>
+    <string name="btn2">GUESS  GAME</string>
+    <string name="btn3">MOVE IMAGE</string>
+    <string name="btn4">PICK IMAGE</string>
+    <string name="btn_1">Rose</string>
+    <string name="HintintroduzcaNum">Integer</string>
+    <string name="btnCalcular">CALCULATED</string>
+    <string name="introduzcaNum">Insert a number</string>
+    <string name="btn_2">Sunflower</string>
+    <string name="btn_3">Gladiolus</string>
+    <string name="btn_4">Daisy</string>
+</resources>

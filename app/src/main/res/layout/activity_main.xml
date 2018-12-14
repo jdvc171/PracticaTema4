@@ -17,58 +17,48 @@
             android:layout_width="match_parent"
             android:layout_height="256dp"
             android:src="@drawable/games"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:contentDescription="@string/imagenMenu" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
         android:layout_marginTop="50dp"
+        android:layout_marginRight="10dp"
         android:orientation="horizontal">
 
         <Button
             android:id="@+id/btnCalcular"
-            android:layout_width="166dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
+            style="@style/Buttons"
             android:drawableTop="@drawable/numeros1"
-            android:text="CALCULAR"
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="283dp" />
+            android:text="@string/btn1" />
 
         <Button
-            android:id="@+id/button15"
-            android:layout_width="166dp"
-            android:layout_height="97dp"
-            android:layout_weight="1"
-            android:text="Button"
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="283dp" />
+            android:id="@+id/btnJDA"
+            style="@style/Buttons"
+            android:drawableTop="@drawable/mapa1"
+            android:text="@string/btn2" />
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
         android:orientation="horizontal">
 
         <Button
-            android:id="@+id/button18"
-            android:layout_width="166dp"
-            android:layout_height="97dp"
-            android:layout_weight="1"
-            android:text="Button"
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="283dp" />
+            android:id="@+id/btnDesplazar"
+            style="@style/Buttons"
+            android:text="@string/btn3" />
 
         <Button
-            android:id="@+id/button17"
-            android:layout_width="166dp"
-            android:layout_height="97dp"
-            android:layout_weight="1"
-            android:text="Button"
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="283dp" />
+            android:id="@+id/btnSeleccionar"
+            style="@style/Buttons"
+            android:text="@string/btn4" />
     </LinearLayout>
 
 </LinearLayout>

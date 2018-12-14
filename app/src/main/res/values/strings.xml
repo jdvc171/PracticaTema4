@@ -1,3 +1,71 @@
 <resources>
     <string name="app_name">PracticaTema4</string>
+    <string name="imagenMenu">Imagen del menú principal</string>
+    <string name="introduzcaNum">Introduzca un número</string>
+    <string name="HintintroduzcaNum">Número Entero</string>
+    <string name="btnCalcular">CALCULAR</string>
+
+    <string name="itemPais1">España</string>
+    <string name="itemPais2">Portugal</string>
+    <string name="itemPais3">Francia</string>
+    <string name="itemPais4">Inglaterra</string>
+    <string name="itemPais5">Brasil</string>
+    <string name="itemPais6">Argentina</string>
+    <string name="itemPais7">Alemania</string>
+    <string name="itemPais8">Suecia</string>
+    <string name="itemPais9">Rusia</string>
+    <string name="itemPais10">EE.UU</string>
+
+    <string-array name="paisesA">
+        <item>@string/itemPais1</item>
+        <item>@string/itemPais2</item>
+        <item>@string/itemPais3</item>
+        <item>@string/itemPais4</item>
+        <item>@string/itemPais5</item>
+        <item>@string/itemPais6</item>
+        <item>@string/itemPais7</item>
+        <item>@string/itemPais8</item>
+        <item>@string/itemPais9</item>
+        <item>@string/itemPais10</item>
+    </string-array>
+
+    <string name="itemCapital1">Buenos Aires</string>
+    <string name="itemCapital2">Brasilia</string>
+    <string name="itemCapital3">Lisboa</string>
+    <string name="itemCapital4">París</string>
+    <string name="itemCapital5">Washington D.C</string>
+    <string name="itemCapital6">Madrid</string>
+    <string name="itemCapital7">Berlín</string>
+    <string name="itemCapital8">Londres</string>
+    <string name="itemCapital9">Estocolmo</string>
+    <string name="itemCapital10">Moscú</string>
+
+    <string-array name="capitalesA">
+        <item>@string/itemCapital1</item>
+        <item>@string/itemCapital2</item>
+        <item>@string/itemCapital3</item>
+        <item>@string/itemCapital4</item>
+        <item>@string/itemCapital5</item>
+        <item>@string/itemCapital6</item>
+        <item>@string/itemCapital7</item>
+        <item>@string/itemCapital8</item>
+        <item>@string/itemCapital9</item>
+        <item>@string/itemCapital10</item>
+    </string-array>
+
+    <string name="paises">Paises</string>
+    <string name="capitales">Capitales</string>
+    <string name="pais">País: </string>
+    <string name="capital">Capital: </string>
+    <string name="verificar">VERIFICAR</string>
+    <string name="btn1">CALCULAR</string>
+    <string name="btn2">JUEGO DE ACIERTOS</string>
+    <string name="btn3">DESPLAZAR IMAGEN</string>
+    <string name="btn4">ESCOGER IMAGEN</string>
+    <string name="btn_1">Rosa</string>
+    <string name="btn_2">Girasol</string>
+    <string name="btn_3">Gladiolo</string>
+    <string name="btn_4">Margarita</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>

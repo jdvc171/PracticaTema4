@@ -5,4 +5,21 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="Buttons" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">166dp</item>
+        <item name="android:layout_height">97dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="Buttons1" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">-2dp</item>
+        <item name="android:layout_height">-2dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+
+
 </resources>

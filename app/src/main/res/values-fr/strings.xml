@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaTema4</string>
+    <string name="imagenMenu">Image du menu</string>
+    <string name="paises">Les Pays</string>
+    <string name="capitales">Capitales</string>
+    <string name="pais">Le Pays</string>
+    <string name="capital">Capitale</string>
+    <string name="verificar">Vérifier</string>
+    <string name="hello_blank_fragment">Helloblank fragment</string>
+    <string name="itemPais1">Espagne</string>
+    <string name="itemPais2">Portugal</string>
+    <string name="itemPais3">France</string>
+    <string name="itemPais4">Angleterre</string>
+    <string name="itemPais5">Brésil</string>
+    <string name="itemPais6">Argentine</string>
+    <string name="itemPais7">Allemagne</string>
+    <string name="itemPais8">Suède</string>
+    <string name="itemPais9">Russie</string>
+    <string name="itemPais10">EE.UU</string>
+    <string name="itemCapital1">Buenos Aires</string>
+    <string name="itemCapital2">Brasilia</string>
+    <string name="itemCapital3">Lisbonne</string>
+    <string name="itemCapital4">Paris</string>
+    <string name="itemCapital5">Washington D.C.</string>
+    <string name="itemCapital6">Madrid</string>
+    <string name="itemCapital7">Berlin</string>
+    <string name="itemCapital8">Londres</string>
+    <string name="itemCapital9">Stockholm</string>
+    <string name="itemCapital10">Moscou</string>
+    <string name="btn1">CALCULER</string>
+    <string name="btn2">DEVINEF JEU</string>
+    <string name="btn3">DÉPLACER L\' IMAGE</string>
+    <string name="btn4">CHOISIR UNE IMAGE</string>
+    <string name="btn_1">Rose</string>
+    <string name="btn_2">Tournesol</string>
+    <string name="btn_3">Glaïeul</string>
+    <string name="btn_4">Marguerite</string>
+    <string name="introduzcaNum">Entrez un nombre</string>
+    <string name="HintintroduzcaNum">Nombre entier</string>
+    <string name="btnCalcular">CALCULER</string>
+</resources>

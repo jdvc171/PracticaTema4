@@ -7,27 +7,20 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <LinearLayout
+    <ImageView
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
-
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="match_parent"
-            android:layout_height="256dp"
-            android:contentDescription="@string/imagenMenu"
-            android:src="@drawable/games"
-            android:visibility="visible" />
-
-    </LinearLayout>
+        android:layout_height="106dp"
+        android:contentDescription="@string/imagenMenu"
+        android:src="@drawable/games"
+        android:visibility="visible" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
+        android:layout_marginLeft="50dp"
         android:layout_marginTop="50dp"
-        android:layout_marginRight="10dp"
+        android:layout_marginRight="50dp"
         android:orientation="horizontal">
 
         <Button
@@ -46,8 +39,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
         android:orientation="horizontal">
 
         <Button

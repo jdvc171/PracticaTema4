@@ -4,26 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     tools:context=".SeleccionandoImagenes">
 
     <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
-        android:layout_marginTop="15dp"
-        android:layout_marginRight="10dp"
-        android:orientation="horizontal">
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
         <Button
             android:id="@+id/btnRosa"
             style="@style/Buttons1"
             android:text="@string/btn_1" />
-
-        <Button
-            android:id="@+id/btnGirasol"
-            style="@style/Buttons1"
-            android:text="@string/btn_2" />
 
         <Button
             android:id="@+id/btnMargarita"
@@ -34,12 +25,19 @@
             android:id="@+id/btnGladiolo"
             style="@style/Buttons1"
             android:text="@string/btn_3" />
+
+        <Button
+            android:id="@+id/btnGirasol"
+            style="@style/Buttons1"
+            android:text="@string/btn_2" />
     </LinearLayout>
+
     <RelativeLayout
         android:id="@+id/LayoutFlor"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
         android:gravity="center">
 
     </RelativeLayout>
+
 </LinearLayout>

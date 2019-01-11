@@ -29,24 +29,15 @@ public class NumerosPrimos extends Activity {
             public void onClick(View view) {
                 textViewSolucion.setText("");
                 Boolean primo;
-
-
-
                 if(editNumPrimo.getText().toString().isEmpty()){textViewSolucion.setText("Por favor introudzca un número entero");}
                 else{
                     primo = esPrimo(Integer.parseInt(editNumPrimo.getText().toString()));
-
                     if (primo==true){
                         textViewSolucion.setText("El número introducido es primo");
-
                     }else{
-
                         textViewSolucion.setText("El número introducido no es primo");
                     }
-
                 }
-
-
             }
         });
 
